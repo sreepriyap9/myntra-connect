@@ -1,5 +1,7 @@
-Myntra Connect
-Myntra Connect is a social media platform designed to connect fashion enthusiasts and provide a seamless shopping experience. This project encompasses both the server-side and frontend implementations.
+MyntraConnect
+
+
+MyntraConnect is a social media platform designed to connect fashion enthusiasts and provide a seamless shopping experience. This project encompasses both the server-side and frontend implementations.
 
 Features
 User authentication and authorization
